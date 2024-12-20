@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.services:storage:1.5.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/7b86409ad0eb001371bdcb16d48f5158/transformed/storage-1.5.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/7b86409ad0eb001371bdcb16d48f5158/transformed/storage-1.5.0/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/2f8c63cf15b4f06a08d8f7c2687e2875/transformed/storage-1.5.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/2f8c63cf15b4f06a08d8f7c2687e2875/transformed/storage-1.5.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.5.0/e79382cf7d1d44ef6b4b32533d10379ed3cbc656/storage-1.5.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.5.0/e79382cf7d1d44ef6b4b32533d10379ed3cbc656/storage-1.5.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

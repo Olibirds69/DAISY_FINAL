@@ -56,6 +56,7 @@ dependencies {
     implementation(libs.places)
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.camera.core)
+    implementation(libs.firebase.storage.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -84,7 +85,7 @@ dependencies {
     // Mediapipe Library
     implementation(libs.tasks.vision)
     implementation ("com.google.firebase:firebase-auth:21.1.0") // Add Firebase Auth dependency
-    implementation ("com.google.firebase:firebase-core:21.1.0")
+  //  implementation ("com.google.firebase:firebase-core:21.1.0")
 
 
 }
