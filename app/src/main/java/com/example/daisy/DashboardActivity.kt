@@ -48,15 +48,10 @@ class DashboardActivity : AppCompatActivity() {
                 }
 
                 R.id.nav_settings -> {
-                    Toast.makeText(this, "Settings Coming Soon!", Toast.LENGTH_SHORT).show()
+                    val intent = Intent(this, SettingActivity::class.java)
+                    startActivity(intent)
                     true
                 }
-
-                R.id.nav_messages -> {
-                    Toast.makeText(this, "Forum Coming Soon!", Toast.LENGTH_SHORT).show()
-                    true
-                }
-
                 else -> false
             }
         }
