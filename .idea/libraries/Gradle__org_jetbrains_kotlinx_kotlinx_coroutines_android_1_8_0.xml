@@ -2,7 +2,7 @@
   <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.0" type="java-imported" external-system-id="GRADLE">
     <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-android" version="1.8.0" />
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/jbr/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.8.0/d908407315c91c64b461674aba3944a912456e8b/kotlinx-coroutines-android-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.8.0/d908407315c91c64b461674aba3944a912456e8b/kotlinx-coroutines-android-1.8.0.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$APPLICATION_HOME_DIR$/jbr/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.8.0/64c412b39dfab8a27cae489031908ec10fd588cb/kotlinx-coroutines-android-1.8.0-javadoc.jar!/" />

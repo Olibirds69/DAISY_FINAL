@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core:1.13.1@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/adb668b03f570206f3d4a0104e1cf084/transformed/core-1.13.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/caches/8.10.2/transforms/717f70dd1c8ea015ffde751e233ca2b8/transformed/core-1.13.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/adb668b03f570206f3d4a0104e1cf084/transformed/core-1.13.1/jars/classes.jar!/" />
-      <root url="file://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/adb668b03f570206f3d4a0104e1cf084/transformed/core-1.13.1/res" />
-      <root url="file://$APPLICATION_HOME_DIR$/jbr/caches/8.9/transforms/adb668b03f570206f3d4a0104e1cf084/transformed/core-1.13.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/caches/8.10.2/transforms/717f70dd1c8ea015ffde751e233ca2b8/transformed/core-1.13.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/8.10.2/transforms/717f70dd1c8ea015ffde751e233ca2b8/transformed/core-1.13.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/caches/8.10.2/transforms/717f70dd1c8ea015ffde751e233ca2b8/transformed/core-1.13.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -138,4 +138,9 @@ class EditProfileActivity : AppCompatActivity() {
             Toast.makeText(this, "Failed to upload image", Toast.LENGTH_SHORT).show()
         }
     }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed() // Handle toolbar back button
+        return true
+    }
 }
