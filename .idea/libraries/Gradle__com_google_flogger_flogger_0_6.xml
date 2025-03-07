@@ -2,7 +2,7 @@
   <library name="Gradle: com.google.flogger:flogger:0.6" type="java-imported" external-system-id="GRADLE">
     <properties groupId="com.google.flogger" artifactId="flogger" version="0.6" />
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.6/155dc6e303a58f7bbff5d2cd1a259de86827f4fe/flogger-0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/com.google.flogger/flogger/0.6/155dc6e303a58f7bbff5d2cd1a259de86827f4fe/flogger-0.6.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.flogger/flogger/0.6/690c5d0af4e31b60ecad3a7b4122038d99640060/flogger-0.6-javadoc.jar!/" />

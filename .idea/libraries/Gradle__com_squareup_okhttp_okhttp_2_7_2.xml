@@ -2,7 +2,7 @@
   <library name="Gradle: com.squareup.okhttp:okhttp:2.7.2" type="java-imported" external-system-id="GRADLE">
     <properties groupId="com.squareup.okhttp" artifactId="okhttp" version="2.7.2" />
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/7f6a0f17c80e720d2d91028915126651fcfc6b6f/okhttp-2.7.2-javadoc.jar!/" />
