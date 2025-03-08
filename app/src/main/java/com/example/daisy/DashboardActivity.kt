@@ -63,11 +63,13 @@ class DashboardActivity : AppCompatActivity() {
         }
 
         learnSignLanguageCard.setOnClickListener {
-            showSnackbar("COMING SOON!")
+            val intent = Intent(this, LearnSignLanguageActivity::class.java)
+            startActivity(intent)
         }
 
         sampleQuizCard.setOnClickListener {
-            showSnackbar("COMING SOON!")
+            val intent = Intent(this, SampleQuizActivity::class.java)
+            startActivity(intent)
         }
     }
 

@@ -6,7 +6,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures-ktx/1.1.0/ef04086fb17756bde36beb2a723e9be2016a73a4/concurrent-futures-ktx-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures-ktx/1.1.0/ef04086fb17756bde36beb2a723e9be2016a73a4/concurrent-futures-ktx-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
