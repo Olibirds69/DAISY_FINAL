@@ -26,6 +26,7 @@ import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit
 import com.example.daisy.R
+import androidx.navigation.findNavController
 
 class CameraFragment : Fragment(),
     GestureRecognizerHelper.GestureRecognizerListener {
@@ -64,7 +65,7 @@ class CameraFragment : Fragment(),
         // Make sure that all permissions are still present, since the
         // user could have removed them while the app was in paused state.
         if (!PermissionsFragment.hasPermissions(requireContext())) {
-            Navigation.findNavController(requireActivity(), R.id.fragment_container)
+            requireActivity().findNavController(R.id.fragment_container)
                 .navigate(R.id.action_camera_to_permissions)
         }
 
